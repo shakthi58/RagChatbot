@@ -30,7 +30,7 @@ Retrieval Process
 
 The retrieval process uses FAISS similarity search. For every user question, the system retrieves the top 5 most relevant chunks from the uploaded PDFs. These chunks are then used as context for answer generation.
 
-Requirements
+##Requirements
 
 Install the required Python packages using this command:
 
