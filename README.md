@@ -61,12 +61,18 @@ http://127.0.0.1:5000
 Project Structure
 
 RagChatbot/
+
 app.py
+
 requirements.txt
+
 README.md
+
 .gitignore
+
 templates/index.html
           style.css
+
 static/style.css
 
 Assumptions and Limitations
