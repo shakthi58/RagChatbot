@@ -1,0 +1,4 @@
+pdfread/
+pdf_data.db
+__pycache__
+.env
