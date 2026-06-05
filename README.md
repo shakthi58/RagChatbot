@@ -30,7 +30,7 @@ Retrieval Process
 
 The retrieval process uses FAISS similarity search. For every user question, the system retrieves the top 5 most relevant chunks from the uploaded PDFs. These chunks are then used as context for answer generation.
 
-##Requirements
+Requirements
 
 Install the required Python packages using this command:
 
@@ -61,19 +61,12 @@ http://127.0.0.1:5000
 Project Structure
 
 RagChatbot/
-
-app.py
-
-requirements.txt
-
-README.md
-
-.gitignore
-
-templates/index.html
-          style.css
-
-static/style.css
+	  app.py
+          requirements.txt
+	  README.md
+	  .gitignore
+	  templates/index.html
+          static/style.css
 
 Assumptions and Limitations
 
